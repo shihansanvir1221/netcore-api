@@ -1,0 +1,17 @@
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Api.Test.deps.json
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Api.Test.runtimeconfig.json
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Api.Test.runtimeconfig.dev.json
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Api.Test.dll
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/Api.Test.pdb
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/netcore-api.dll
+/home/shihan/Documents/netcore-api/Api.Test/bin/Debug/netcoreapp2.1/netcore-api.pdb
+/home/shihan/Documents/netcore-api/Api.Test/obj/Debug/netcoreapp2.1/Api.Test.csprojAssemblyReference.cache
+/home/shihan/Documents/netcore-api/Api.Test/obj/Debug/netcoreapp2.1/Api.Test.AssemblyInfoInputs.cache
+/home/shihan/Documents/netcore-api/Api.Test/obj/Debug/netcoreapp2.1/Api.Test.AssemblyInfo.cs
+/home/shihan/Documents/netcore-api/Api.Test/obj/Debug/netcoreapp2.1/Api.Test.csproj.CopyComplete
+/home/shihan/Documents/netcore-api/Api.Test/obj/Debug/netcoreapp2.1/Api.Test.dll
+/home/shihan/Documents/netcore-api/Api.Test/obj/Debug/netcoreapp2.1/Api.Test.pdb

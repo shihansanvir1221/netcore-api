@@ -1,0 +1,14 @@
+/home/shihan/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/home/shihan/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.deps.json
+/home/shihan/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.runtimeconfig.json
+/home/shihan/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.runtimeconfig.dev.json
+/home/shihan/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.dll
+/home/shihan/Documents/netcore-api/api/bin/Debug/netcoreapp2.1/netcore-api.pdb
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.csprojAssemblyReference.cache
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.RazorAssemblyInfo.cache
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.RazorAssemblyInfo.cs
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.AssemblyInfoInputs.cache
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.AssemblyInfo.cs
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.RazorTargetAssemblyInfo.cache
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.dll
+/home/shihan/Documents/netcore-api/api/obj/Debug/netcoreapp2.1/netcore-api.pdb
