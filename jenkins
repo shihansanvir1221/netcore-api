@@ -1,0 +1,27 @@
+pipeline{
+    agent any
+    stages{
+        stage('Deploy'){
+            when{
+                branch'master'
+            }
+            steps{
+                sh '''dotnet restore
+                      dotnet clean
+                      dotnet build
+                      dotnet publish -c release -o ./output
+                      '''
+            }
+        }
+        stage('Testing'){
+            when{
+                branch'dev'
+            }
+            steps{
+                sh '''dotnet restore
+                      dotnet clean
+                      dotnet build
+                      dotnet test --logger "trx;logfilename=test1.trx" --results-directory ./home/shihan/netcore-api
+                      '''
+            }
+        }
